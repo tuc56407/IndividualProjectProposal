@@ -21,7 +21,9 @@ The module itself will be simple. It will be added to the "Tools" section of Lic
 
 ## Background
 All of Lichess's open source repos are listed here: <https://lichess.org/source>
+
 They provide a concise and convenient guide for installing a local instance of Lichess on your machine here: <https://github.com/ornicar/lila/wiki>
+
 Additionally, here is the URL to the API we'll be calling <https://lichess.org/api>
 
 
